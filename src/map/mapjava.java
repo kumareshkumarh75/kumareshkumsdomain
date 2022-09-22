@@ -12,6 +12,7 @@ public class mapjava {
 		mi.put(10, "java");
 		mi.put(10,"selenium");
 		mi.put(30, "selenium");
+		mi.put(40, "squl");
 		System.out.println(mi);
 
 		
