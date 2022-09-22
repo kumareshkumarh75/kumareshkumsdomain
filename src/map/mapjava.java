@@ -11,6 +11,7 @@ public class mapjava {
 		Map mi=new HashMap();
 		mi.put(10, "java");
 		mi.put(10,"selenium");
+		mi.put(30, "selenium");
 		System.out.println(mi);
 
 		
